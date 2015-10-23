@@ -1,0 +1,48 @@
+body {
+  font-family: "Open Sans";
+  color: #999;
+  background-color: #999999;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: #999;
+  font-size: 16px;
+}
+
+.banner-image {
+  background-image: url(images/header.jpg);
+  background-size: cover;
+  height: 300px;
+}
+
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+.navbar-inverse {
+  background-color: #710C0C;
+}
+
+.well {
+  margin-top: 20px;
+  background-color: #710C0C;
+  border-color: #710C0C;
+}
+
+h2 {
+  font-size: 20px;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.front-page-image {
+  background-image: url(images/frontpage.jpg);
+  height: 400px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
